@@ -1,0 +1,20 @@
+{
+    "language": "English",
+    "initialMessage": "Message in English",
+    "welcomeMessage": "Hello {name}!",
+    "@welcomeMessage": {
+        "placeholders": {
+           "name": {
+               "type": "String"
+           }
+        }
+    },
+    "changeName": "Change name to {name}",
+    "@changeName": {
+      "placeholders": {
+        "name": {
+            "type": "String"
+        }
+      }
+    }
+}

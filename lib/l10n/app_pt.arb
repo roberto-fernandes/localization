@@ -1,0 +1,20 @@
+{
+    "language": "Português",
+    "initialMessage": "Mensagem em português",
+    "welcomeMessage": "Olá {name}!",
+    "@welcomeMessage": {
+      "placeholders": {
+        "name": {
+            "type": "String"
+        }
+      }
+    },
+    "changeName": "Alterar nome para {name}",
+    "@changeName": {
+      "placeholders": {
+        "name": {
+            "type": "String"
+        }
+      }
+    }
+}
